@@ -18,3 +18,8 @@ if __name__ == '__main__':
     # No rounding or formatting is necessary.
     print("the integer result of the division: ", int(a / b))
     print("the float result of the division: ", a / b)
+
+    # we can add also different types of numbers like complex numbers
+    img = 4j
+    complexNum = 2+ 5j
+    print("The new complex number is ", img+complexNum)

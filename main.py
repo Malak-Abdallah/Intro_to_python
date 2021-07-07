@@ -4,6 +4,8 @@
 
 if __name__ == '__main__':
     print("Hello there!! \nThis code to practise some basics in python. \n ")
+    str = "Hello world"
+    print(str[2:])
     # TASK 1:
     # If n is odd, print Weird
     # If n is even and in the inclusive range of 2 to 5, print Not Weird
