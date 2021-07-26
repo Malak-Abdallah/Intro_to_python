@@ -13,4 +13,4 @@ if __name__ == '__main__':
     for i in student_marks[query_name]:
         sum=float(sum+float(i))
 
-    print(str(sum/len(student_marks[query_name])))
+    print(str(format(float(sum/len(student_marks[query_name])),".2f")))
