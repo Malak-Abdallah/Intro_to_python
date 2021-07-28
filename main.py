@@ -1,7 +1,7 @@
 # comments are written in this way!
 # codes written here are solutions for solving problems from Hacker Rank.
 # -------------------------------------------
-
+# Jenan Queen 
 if __name__ == '__main__':
     print("Hello there!! \nThis code to practise some basics in python. \n ")
     str = "Hello world"
@@ -21,3 +21,4 @@ if __name__ == '__main__':
             print("Not Weird")
         else:
             print("Weird")
+            
